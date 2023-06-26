@@ -1,1 +1,6 @@
-# storage_system_computer_craft
+# Sistema gerenciador de baús para CC: Tweaked
+
+-- Requisitos
+- CC: Tweaked
+- More Peripherals
+- Advanced Peripherals
