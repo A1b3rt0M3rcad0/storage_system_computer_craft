@@ -1,6 +1,6 @@
 # Sistema gerenciador de baús para CC: Tweaked
 
--- Requisitos
+-- Mods necessários:
 - CC: Tweaked
 - More Peripherals
 - Advanced Peripherals
