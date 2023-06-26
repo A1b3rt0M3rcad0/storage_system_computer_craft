@@ -1,6 +1,6 @@
-require("/storage_1/config")
-require("/storage_1/storageUtils")
-require("/storage_1/searchItem")
+require("config")
+require("storageUtils")
+require("searchItem")
 
 local cc_require = require("cc.require")
 local env = setmetatable({}, { __index = _ENV })

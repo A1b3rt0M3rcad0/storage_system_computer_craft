@@ -1,5 +1,5 @@
-require("/storage_1/config")
-require("/storage_1/storageUtils")
+require("config")
+require("storageUtils")
 
 function banner()
     print("----------------------------------")
